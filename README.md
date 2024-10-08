@@ -1,5 +1,4 @@
 # Verilog-CPU
-# Pipelined CPU Design Overview
 Optimizes instruction throughput by processing multiple instructions concurrently.  
 Effectively handles data and control hazards, ensuring robust performance and correctness.
 
